@@ -14,3 +14,12 @@ I used a lot of libraries like **Requests** and **BeautifulSoup**.
 
 If you want to try this out you'll also need a Steam Api Key, you can find it [here](https://steamcommunity.com/dev/apikey).
 
+## Explanation
+
+**matches.py** : I selected the series I wanted and I got the match ids I wanted to work with first.
+
+**get_data_.py** : Using the Steam Web Api I got the data I needed.
+
+**heroes.json** : I made a single call to [GetHeroes](https://wiki.teamfortress.com/wiki/WebAPI/GetHeroes) to get the heroes name
+
+**stats.py** : Sorted the data I had and made the output in **finals.txt** , Players names are missing because I was getting encoding errors
