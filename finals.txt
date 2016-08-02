@@ -1,0 +1,40 @@
+gpm_avg
+Outworld Devourer 833.0 - Alchemist 810.53 - Anti-Mage 758.09 - Lone Druid 664.67 - Naga Siren 640.25 - 
+assists_avg
+Spirit Breaker 18.6 - Bounty Hunter 18.38 - Venomancer 17.6 - Crystal Maiden 16.43 - Zeus 15.83 - 
+max_deaths
+Doom 18 - Lion 17 - Bounty Hunter 16 - Elder Titan 15 - Winter Wyvern 14 - 
+win_pct
+Pudge 1.0 - Necrophos 1.0 - Outworld Devourer 1.0 - Tusk 1.0 - Razor 1.0 - 
+picked
+Faceless Void 51 - Shadow Demon 50 - Timbersaw 50 - Batrider 46 - Juggernaut 42 - 
+max_assists
+Spirit Breaker 40 - Zeus 40 - Dark Seer 39 - Venomancer 35 - Phoenix 33 - 
+max_kills
+Slark 29 - Lifestealer 23 - Zeus 22 - Terrorblade 21 - Axe 20 - 
+kills_avg
+Outworld Devourer 17.0 - Necrophos 14.0 - Zeus 12.83 - Sniper 11.0 - Wraith King 11.0 - 
+deaths_avg
+Outworld Devourer 0.0 - Tusk 0.0 - Lone Druid 1.33 - Warlock 1.5 - Medusa 1.7 - 
+banned
+Riki 74 - Elder Titan 64 - Batrider 62 - Beastmaster 61 - Io 60 - 
+max_gpm
+Alchemist 1054 - Anti-Mage 871 - Naga Siren 838 - Luna 833 - Outworld Devourer 833 - 
+min_deaths
+Magnus 0 - Oracle 0 - Venomancer 0 - Winter Wyvern 0 - Witch Doctor 0 - 
+assists_avg
+76561198089733515 25.0 - 76561198095168833 23.0 - 76561198084832013 19.0 - 76561198054604695 18.0 - 76561198096890450 18.0 - 
+max_kills
+76561198055695796 29 - 76561198061715811 23 - 76561198097458967 22 - 76561198073638561 22 - 76561198129447626 21 - 
+kills_avg
+76561198089733515 15.0 - 76561198060583478 10.89 - 76561198065514372 9.86 - 76561198061715811 9.78 - 76561198096890450 9.5 - 
+max_assists
+76561198054604695 40 - 76561198210380235 40 - 76561198049816369 39 - 76561198095168833 35 - 76561197987444626 35 - 
+max_gpm
+76561198068121207 1054 - 76561198129447626 1029 - 76561198047011640 1022 - 76561198047852720 999 - 76561198050137285 997 - 
+gpm_avg
+76561198047015990 815.5 - 76561198089733515 661.0 - 76561198097458967 659.86 - 76561198049512564 657.0 - 76561198047004422 648.0 - 
+max_deaths
+76561197971815910 18 - 76561198083710338 17 - 76561198042528392 16 - 76561198053214822 15 - 76561198055695796 14 - 
+deaths_avg
+76561198084003456 1.0 - 76561198047443319 1.86 - 76561198047015990 2.0 - 76561198135804065 2.0 - 76561198047542075 2.29 - 
